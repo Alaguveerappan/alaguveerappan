@@ -1,0 +1,28 @@
+.alagu {
+    color: #12abef;
+}
+
+.navbar {
+    border: solid #000000 1px;
+}
+
+.navbar div {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 0px 10px 0px;
+}
+
+.navbar div:hover {
+    background-color: lightgrey;
+}
+
+.navbar .active {
+    background-color: darkgrey;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    border: solid black 1px;
+    padding: 10px;
+}
